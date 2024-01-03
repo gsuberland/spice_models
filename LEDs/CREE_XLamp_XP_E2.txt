@@ -15,6 +15,7 @@
 + Is=1.6073e-11
 + N=4.62529
 + Rs=0.259979
++ Iave=350m
 + Mfg=CREE
 + Type=LED
 # Raw IV curve data (V, I):
@@ -48,6 +49,7 @@
 + Is=9.0747e-12
 + N=4.37367
 + Rs=0.272602
++ Iave=350m
 + Mfg=CREE
 + Type=LED
 # Raw IV curve data (V, I):
@@ -80,6 +82,7 @@
 + Is=1.93238e-6
 + N=8.55048
 + Rs=0.102086
++ Iave=350m
 + Mfg=CREE
 + Type=LED
 # Raw IV curve data (V, I):
@@ -110,6 +113,7 @@
 + Is=1.2029e-12
 + N=4.15573
 + Rs=0.320364
++ Iave=350m
 + Mfg=CREE
 + Type=LED
 # Raw IV curve data (V, I):
@@ -146,6 +150,7 @@
 + Is=5.2855e-13
 + N=2.86414
 + Rs=0.481144
++ Iave=350m
 + Mfg=CREE
 + Type=LED
 # Raw IV curve data (V, I):
@@ -181,6 +186,7 @@
 + Is=7.1891e-14
 + N=2.63208
 + Rs=0.556396
++ Iave=350m
 + Mfg=CREE
 + Type=LED
 # CREE XLamp XP-E2 Red-Orange
@@ -188,6 +194,7 @@
 + Is=7.1891e-14
 + N=2.63208
 + Rs=0.556396
++ Iave=350m
 + Mfg=CREE
 + Type=LED
 # Raw IV curve data (V, I):
@@ -228,6 +235,7 @@
 + Is=1.4896e-10
 + N=3.40491
 + Rs=0.567662
++ Iave=350m
 + Mfg=CREE
 + Type=LED
 # Raw IV curve data (V, I):
@@ -271,6 +279,7 @@
 + Is=1.5512e-15
 + N=2.0658
 + Rs=0.335864
++ Iave=350m
 + Mfg=CREE
 + Type=LED
 # Raw IV curve data (V, I):
